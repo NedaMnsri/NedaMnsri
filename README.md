@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NedaMnsri](https://github.com/NedaMnsri)
 
-- 💬 Ask me about **React, Javascript, Bootstrap, Css3, Html5**
+- 💬 Ask me about **React, Javascript, Bootstrap, tailwind, Css3, Html5**
 
 - 📫 How to reach me **Nedamnsri@gmail.com**
 
